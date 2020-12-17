@@ -19,3 +19,29 @@ if k in data1:
       del data1[k]
    else:
       data[k]=v2
+      
+ 5c)
+ test case 1:
+ 4
+ 1 2
+ 3 3
+ 3 8
+ 4 9
+ 2
+ 3 3
+ 4 4
+ 
+ test case2:
+ 4
+ 1 2
+ 2 2
+ 3 3
+ 4 19
+ 2
+ 3 3
+ 4 19
+ 
+ test case3:
+ the test case written in 5a, which breaks the initially written code can be written 
+      
+      
